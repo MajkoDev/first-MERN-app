@@ -1,8 +1,8 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
-//* Pages and Components
+//* Pages
 import Home from "./pages/Home";
-
+//* Components
 import Navbar from "./components/Navbar"
 
 function App() {
