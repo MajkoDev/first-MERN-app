@@ -1,3 +1,3 @@
 # first-MERN-app
 
-![Example](/example.gif)
+![Example](/Example.gif)
